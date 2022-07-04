@@ -45,8 +45,8 @@ var _0x1a32e8=_0x41cc;function _0x41cc(_0x40a8d6,_0x3701e2){var _0x2635b7=_0x263
 global.owner = ['212705570169','','18728176690' , '18728176690' , '18728176690'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['18728176690'] //another owner number
 global.premium = ['212646480851'] //premium number
-global.pengguna = 'Zero-Two' //username
-global.botnma = 'Zero-Two' //bot name
+global.pengguna = 'namx' //username
+global.botnma = 'namx' //bot name
 global.watermark = "ENJOY WITH NAMX"
 global.dogeemoji = "✨"
 global.botname = 'namx'
